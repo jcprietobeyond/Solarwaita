@@ -1,6 +1,6 @@
 # Solarwaita Dark
 
-A [gedit](https://wiki.gnome.org/Apps/Gedit) color scheme using the [Solarized dark](https://ethanschoonover.com/solarized/) color palette. Tweaked to fit Adwaita Dark.
+A [gedit](https://wiki.gnome.org/Apps/Gedit) color scheme using the [Solarized dark](https://ethanschoonover.com/solarized/) color palette, mixed with [Arc dark](https://framagit.org/fmr/Gedit_Arc_theme). Tweaked to fit Adwaita Dark.
 
 ![Screenshot from 2021-12-29 04-51-28](https://user-images.githubusercontent.com/15643750/147619935-5009d7e4-93cd-4270-b8f9-6a3a1c271d99.png)
 
