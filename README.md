@@ -2,7 +2,9 @@
 
 A [gedit](https://wiki.gnome.org/Apps/Gedit) color scheme using the [Solarized dark](https://ethanschoonover.com/solarized/) color palette, mixed with [Arc dark](https://framagit.org/fmr/Gedit_Arc_theme). Tweaked to fit Adwaita Dark.
 
-![Screenshot from 2021-12-29 04-51-28](https://user-images.githubusercontent.com/15643750/147619935-5009d7e4-93cd-4270-b8f9-6a3a1c271d99.png)
+![Captura de pantalla de 2022-08-24 09-49-52](https://user-images.githubusercontent.com/17471076/186361978-57358406-a9ef-4c16-9a67-78caa819914c.png)
+
+
 
 #### Activating the scheme
 
